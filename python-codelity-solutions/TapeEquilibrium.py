@@ -41,7 +41,7 @@ N is an integer within the range [2..100,000];
 each element of array A is an integer within the range [−1,000..1,000].
 
 '''
-
+#solution
 
 A= [3,1,2,4,3]
 
