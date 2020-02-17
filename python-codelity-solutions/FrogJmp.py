@@ -28,13 +28,13 @@ X ≤ Y.
 #solution
 
 def solution(X, Y, D):
-	count = 0
-	sum = X
-	while sum <= Y:
-		sum = sum + D
-		count += 1
-		print(sum)
-	return count
+    count = 0
+    sum = X
+    while sum <= Y:
+        sum = sum + D
+	count += 1
+	print(sum)
+    return count
 
 print(solution(10,85,30))
 
